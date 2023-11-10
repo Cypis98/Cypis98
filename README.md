@@ -1,7 +1,7 @@
 # Cypis98 - Mój profil
 
 ## O mnie
-Cześć, nazywam się @[Cypis98](https://github.com/Cypis98), a umiejętności programowania uczyłem się od @[PitGamer1909](https:github.com/PitGamer1909). Mogę z dumą powiedzieć, że poprawiłem swoje umiejętności i jestem teraz nawet lepszy od mojego mentora.
+Cześć, nazywam się [@Cypis98](https://github.com/Cypis98), a umiejętności programowania uczyłem się od [@PitGamer1909](https://github.com/PitGamer1909). Mogę z dumą powiedzieć, że poprawiłem swoje umiejętności i jestem teraz nawet lepszy od mojego mentora.
 
 ## Umiejętności programistyczne
 Mam doświadczenie w kilku językach programowania, w tym python, javascript, nodejs, html i zawsze chcę dalej rozwijać swoje umiejętności. Moje projekty obejmują zakres od [Yggdrasilbottem](https://github.com/Bot-Crew/Yggdrasilbottem).
